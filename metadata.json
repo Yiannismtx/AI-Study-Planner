@@ -1,0 +1,5 @@
+{
+  "name": "AI Study Planner",
+  "description": "Generate personalized, structured study plans for any topic using AI. Input your learning goals, and get a detailed, day-by-day schedule to guide your studies and keep you on track.",
+  "requestFramePermissions": []
+}
